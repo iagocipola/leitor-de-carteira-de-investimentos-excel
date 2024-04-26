@@ -4,7 +4,7 @@ Bem-vindo ao meu primeiro projeto aqui no GitHub!
 
 ## Origem do Projeto
 
-Ao me inscrever para uma vaga de estágio em Dados em uma empresa de investimentos, me deparei com um teste desafiador. O desafio consistia em criar uma base de dados a partir de uma carteira de investimentos, chamada "carteira_explodida", para ser analisada no Power BI.
+Ao me inscrever para uma vaga de estágio em Dados em uma empresa de investimentos, me deparei com um teste desafiador. O desafio consistia em criar uma base de dados a partir de uma carteira de investimentos para ser analisada no Power BI.
 
 ## Desafio e Solução
 
