@@ -26,6 +26,6 @@ Print de uma parte do código (pra ficar bonito rs):
 Para usar o programa:
 
 1. Clone o repositório.
-2. Execute o programa em Python.
+2. Execute o programa em Python com a carteira de investimentos fictícia como fonte de dados.
 3. Verifique a carteira_explodida gerada pelo programa.
 
