@@ -14,6 +14,8 @@ Para criar a base de dados necessária, precisei calcular o valor real de cada a
 
 Fazer esses cálculos manualmente para uma carteira com várias linhas seria ineficiente, então criei um programa em Python para automatizar o processo. O código está comentado para facilitar o entendimento do raciocínio por trás dos cálculos.
 
+![](https://img.hotimg.com/Captura-de-tela-2024-04-26-114710.png#vitrinedev)
+
 ## Funcionalidades do Projeto
 
 - **Automatização dos Cálculos**: O programa em Python calcula o valor real de cada ação e sua porcentagem de participação, gerando a carteira_explodida automaticamente.
