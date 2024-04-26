@@ -13,6 +13,7 @@ O teste demandava uma compreensão detalhada das informações contidas na carte
 Para criar a base de dados necessária, precisei calcular o valor real de cada ação e sua porcentagem de participação. Por exemplo, se a carteira base "Cotas de INVESTMENTO ALPHA FI AÇÕES" valia R$589320,75 e eu possuía 45% dela, e na ação "VORTEX TECH ON NM - VRTX3" possuía 42%, o cálculo seria: R$589320,75 * 45% * 42% = R$111381,62175.
 
 Fazer esses cálculos manualmente para uma carteira com várias linhas seria ineficiente, então criei um programa em Python para automatizar o processo. O código está comentado para facilitar o entendimento do raciocínio por trás dos cálculos.
+Print de uma parte do código (pra ficar bonito rs):
 
 ![](https://img.hotimg.com/Captura-de-tela-2024-04-26-114710.png#vitrinedev)
 
